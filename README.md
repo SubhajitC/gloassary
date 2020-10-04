@@ -12,3 +12,8 @@ Change the db setting in setting.py
   after applying the migration
   Run the Django appliaction
   python manage.py runserver
+  
+  *----------IMPORTANT  NOTE---------------------****
+  SuperUser
+  python manage.py createsuperuser
+  
