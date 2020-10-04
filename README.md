@@ -17,9 +17,9 @@ Change the db setting in setting.py
   SuperUser
   python manage.py createsuperuser
   Admin
-![Untitled](https://user-images.githubusercontent.com/41908790/95021338-410f2400-0625-11eb-8b49-10294ea1b597.png)
+ (https://user-images.githubusercontent.com/41908790/95021338-410f2400-0625-11eb-8b49-10294ea1b597.png)
 product
-![product](https://user-images.githubusercontent.com/41908790/95021810-28543d80-0628-11eb-9099-af1aec3cb760.png)
+(https://user-images.githubusercontent.com/41908790/95021810-28543d80-0628-11eb-9099-af1aec3cb760.png)
 
 
 
