@@ -11,4 +11,4 @@ Change the db setting in setting.py
   python manage.py migrate
   after applying the migration
   Run the Django appliaction
-  python manage.py Runserver
+  python manage.py runserver
